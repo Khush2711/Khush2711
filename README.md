@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Stack, Data Structure And Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://khush-desai-portfolio.netlify.app/](https://khush-desai-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://khush-desai-portfolio.netlify.app/](https://khush-desai-portfolio.netlify.app/)
 
 - 💬 Ask me about **C++, HTML, CSS, JS, Design Pattern**
 
